@@ -1,0 +1,5 @@
+
+##open smss select db and table ,new query, write this and run
+
+SELECT TOP 10 * FROM TestDB.dbo.StorageLogs
+ORDER BY CreatedAt DESC;
